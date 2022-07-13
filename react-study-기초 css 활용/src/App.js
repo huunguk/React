@@ -11,7 +11,7 @@ function App() {
     backgroundColor: 'skyblue'
   }
 
-  const ttl = '리액트 시작!'
+  const ttl = '리액트 시작!!'
 
   return (
     <div className='wrapper'>
