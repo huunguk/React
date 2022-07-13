@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function Counter() {
-  //hooks 함수 useState => 상태값
+  //hooks 함수는 useState => 상태값
   //const [변수명, 변수값을 변환 시키는 함수] = useState(0);
   const [number, setNumber] = useState(0);
   const plus = () => {
