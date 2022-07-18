@@ -1,0 +1,18 @@
+.div {
+  float: left;
+  width: 400px;
+}
+
+.img {
+  width: 200px;
+}
+
+.h3 {
+  color: red
+}
+
+
+/* display: flex;
+  flex-direction: column;
+  background-color: aqua;
+} */
